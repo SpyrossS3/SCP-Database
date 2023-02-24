@@ -2,7 +2,7 @@
 
 This project utilizes the SCP content out there to deliver a comprehensive database of all SCP subjects throughout original works within the SCP site and will extend to content created outside of the site's works as well. Utilizing a database made with SQLite3, and GUI/script in Python, the GUI will be based on the idea given in SCP: Secret Files, where you are logged into the SCP Foundation internal network and database.
 
-Throughout the project, content will come primarily from the [official SCP website](https://scp-wiki.wikidot.com), but also pull from games (mainly Secret Files), and possibly other fan-created works if they're worth noting. This, like all works in the SCP universe, is strictly of my own canon, and while this project's first objective above all else, is to inform, in some cases, it may be necessary to personal alterations to better suit the project as a whole, but when any information strays from the original work on the official SCP website, you will be notified.
+Throughout the project, content will come primarily from the [official SCP website](https://scp-wiki.wikidot.com), but also pull from games (mainly Secret Files), and possibly other fan-created works if they're worth noting. This, like all works in the SCP universe, is strictly of my own canon, and while this project's first objective above all else, is to inform, in some cases, it may be necessary to personalize alterations to better suit the project as a whole, but when any information strays from the original work on the official SCP website, you will be notified.
 
 <br>
 
