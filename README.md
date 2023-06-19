@@ -1,4 +1,4 @@
-# Project: SCP Universe (Application)
+# Project: SCP Universe (Application) - Project is archived until a later date
 
 This project utilizes the SCP content out there to deliver a comprehensive database of all SCP subjects throughout original works within the SCP site and will extend to content created outside of the site's works as well. Utilizing a database made with SQLite3, and GUI/script in Python, the GUI will be based on the idea given in SCP: Secret Files, where you are logged into the SCP Foundation internal network and database.
 
